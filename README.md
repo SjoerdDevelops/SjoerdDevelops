@@ -3,17 +3,13 @@ a Robotics Engineer with a background in Mechanical Engineering and Education wh
 
 ## Currently learning
 ### Software Architecture
-I like to invest most of my spare reading about and studying design patterns to write better code. 
-
-### Productivity
-For the past year I have been investing a lot of time in becoming more productive, this involves:
-- Establishing improved workflows by using git, docker containers, VS Code Extensions and Profiles.
-- Improving my typing (Yes, really!). Since I do most of my work behind a keyboard I figured it a worthwhile investment to improve my typing speed by frequently practicing using online tool like `keybr.com` and `monkeytype.com`.
+I like to invest most of my spare reading about and studying design patterns and watch conferance talks about specific topics. 
 
 ## Skills and Tools
 ### Code
-`C#/.NET` `C/C++` `Python`\
-*Past experience with:* `HTML` `CSS` `Javascript` `PHP` `MySQL`
+`C/C++` `Python`, `C#/.NET` for robotic simulations (Unity), robot modules (ROS2)\
+`Typescript`, `HTML`, `CSS` (Tailwind), `MySQL` for webapps and personal projects. 
+Currently learning `Rust`.
 
 ### Tools
-`VS Code` `Docker` `Git` `Unity` `Obsidian` `CMake`
+`NVIM`, `VS Code`, `Zed`, `Docker` `Git` `Unity` `Obsidian` `CMake`
