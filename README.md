@@ -8,7 +8,7 @@ I like to invest most of my spare reading about and studying design patterns and
 ## Skills and Tools
 ### Code
 `C/C++` `Python`, `C#/.NET` for robotic simulations (Unity), robot modules (ROS2)\
-`Typescript`, `HTML`, `CSS` (Tailwind), `MySQL` for webapps and personal projects. 
+`Typescript`, `HTML`, `CSS` (Tailwind), `MySQL` for webapps and personal projects. \\
 Currently learning `Rust`.
 
 ### Tools
